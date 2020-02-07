@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Harry Potter",
+    "author": "J. K. Rowling",
+    "genre": "Fantasy",
+    "publisher": "Bloomsbury Publishing"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Fiction",
+    "publisher": "Houghton Mifflin Harcourt"
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "genre": "Fiction",
+    "publisher": "Scribner"
+  }
+]
